@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "nvgr_common.h": "c"
+    },
+    "cmake.configureOnOpen": false
+}
